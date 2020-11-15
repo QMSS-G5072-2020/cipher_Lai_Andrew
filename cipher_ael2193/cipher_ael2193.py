@@ -1,6 +1,6 @@
 def cipher(text, shift, encrypt=True):
     """
-        Transform words into using cipher.
+        Transform words using cipher.
     Parameters:
     -----------
     text = A string that is inputted into the function to be transformed
