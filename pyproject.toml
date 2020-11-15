@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cipher_ael2193"
+version = "0.1.0"
+description = "Python package that uses cipher function to transform words"
+authors = ["Andrew <ael2193@columbia.edu>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
